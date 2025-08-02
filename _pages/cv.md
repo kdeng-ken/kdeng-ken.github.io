@@ -17,7 +17,7 @@ Education
 
 Professional experience
 ------
-* 2018-2020: Research Professional
+* 2018-2020: Research Analyst
   * Centre for Risk Studies, Judge Business School, University of Cambridge
   
 Skills
