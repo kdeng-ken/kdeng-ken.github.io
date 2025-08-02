@@ -1,0 +1,9 @@
+<article class="archive__item">
+  {% if post.bullets %}
+    <ul>
+      {% for item in post.bullets %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>
