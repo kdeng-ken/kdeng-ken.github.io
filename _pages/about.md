@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil candidate in Finance at the University of Oxford.
+I am a PhD/DPhil candidate in Finance at the Saïd Business School, University of Oxford.
 
 Research interests
 ------
-Corporate governance, corporate finance
+Corporate Governance, Corporate Finance, Financial Markets
 
 Contact
 ------
