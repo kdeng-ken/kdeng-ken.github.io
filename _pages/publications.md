@@ -11,9 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-Working papers
-------
+<h2>Working Papers</h2>
+<hr>
+{% assign working_pubs = site.publications | where: "category", "working" | sort: "date" | reverse %}
+{% for post in working_pubs %}
+  {% include archive-single.html %}
+{% endfor %}
 
-{% for post in site.publications reversed %}
+<h2>Work in Progress</h2>
+<hr>
+{% assign progress_pubs = site.publications | where: "category", "progress" | sort: "date" | reverse %}
+{% for post in conference_pubs %}
   {% include archive-single.html %}
 {% endfor %}
