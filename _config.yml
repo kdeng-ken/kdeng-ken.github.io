@@ -154,6 +154,12 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+# Sitemap settings (exclude it)
+sitemap:
+  exclude:
+    - /sitemap.xml
+
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
