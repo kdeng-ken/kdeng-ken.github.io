@@ -2,5 +2,5 @@
 collection: teaching
 category: cambridge
 bullets:
-  - "Undergraduate | Banking and Finance | 2018, 2019, 2020"
+  - "Undergraduate | Banking and Finance | Tutorial | 2018, 2019, 2020"
 ---
