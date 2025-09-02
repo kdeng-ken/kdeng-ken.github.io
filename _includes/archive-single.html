@@ -31,7 +31,7 @@
     </h3>
 
     {% if post.authors %}
-      <p> {{ post.authors }}</p>
+      <p>{{ post.authors | markdownify }}</p>
     {% endif %}
 
     {% if post.journal %}
