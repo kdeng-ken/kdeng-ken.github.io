@@ -21,6 +21,6 @@ author_profile: true
 <h2>Work in Progress</h2>
 <hr>
 {% assign progress_pubs = site.publications | where: "category", "progress" | sort: "date" | reverse %}
-{% for post in conference_pubs %}
+{% for post in progress_pubs %}
   {% include archive-single.html %}
 {% endfor %}
