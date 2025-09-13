@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD/DPhil candidate in Finance at the Saïd Business School, University of Oxford.
+Welcome to my website. I am a PhD/DPhil candidate in Finance at the Saïd Business School, University of Oxford.
+
+I am on the finance job market during the 2025-26 academic year.
 
 Research interests
 ------
