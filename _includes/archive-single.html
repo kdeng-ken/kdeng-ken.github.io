@@ -35,7 +35,7 @@
     {% endif %}
 
     {% if post.journal %}
-      <p> {{ post.journal }}</p>
+      <p> {{ post.journal | markdownify }}</p>
     {% endif %}
 
     {% if post.abstract %}
