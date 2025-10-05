@@ -14,8 +14,8 @@ I will be on the 2025/26 job market.
 
 Research interests
 ------
-Corporate Governance, Corporate Finance, Financial Markets
+Corporate Governance, Corporate Finance, Financial Intermediation
 
 Contact
 ------
-My email is ken.[mylastname].dphil[at]said.oxford.edu
+My email is ken.deng.dphil "at" said.oxford.edu
