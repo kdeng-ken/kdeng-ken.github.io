@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[**Download CV**](https://www.dropbox.com/scl/fi/1k44ci4jp8pedjm8z59i4/CV_October2025.pdf?rlkey=c7pnhrlhqu0y6scn70urvy0zu&st=sh25o4oo&dl=0)
+[**Download CV**](https://www.dropbox.com/scl/fi/ijoskqeo5rx00gxdj6lfh/CV_October2025.pdf?rlkey=hfwhq7ll8lu05m7jw9glnthty&st=06bfe2xx&dl=0)
